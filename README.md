@@ -58,6 +58,8 @@ Sample API Response:
 }
 ```
 
+![Capture1](https://github.com/brhmpreet/Sudoku-Solver/assets/97327612/0039be2c-96db-4d3d-8a2b-e196f667ef36)
+![Capture2](https://github.com/brhmpreet/Sudoku-Solver/assets/97327612/e6c2e8b5-dcab-45cc-92ee-f678dedbdf3a)
 
 ## Acknowledgments
 
